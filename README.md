@@ -1,9 +1,30 @@
-- 👋 Hi, I’m JimBLogic
-- 👀 I’m interested in CyberSecurity, Ethical Hacking, Privacy, Bitcoin, Cloud Computing, PC gaming, sports (Parkour, Crossfit, Gymnastics, Badminton...), podcasts and reading.
-- 🌱 I’m currently expanding my knowledge on AWS Certified Cloud Practitioner, Python, git, C, Bash, PowerShell, Ethical Hacking, BlueTeam SOC Junior,
-- 💞️ I’m looking to collaborate on anything CyberSec &/or Bitcoin related.
-- 📫 How to reach me on #Nostr: [- nostr:npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2](https://iris.to/npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2)
-![MyCert](https://github.com/JimBLogic/JimBLogic/blob/main/Certificates/upgradehubcert.png)
+# 👋 Hi, I'm Jaime Ramsden de Frutos
+
+## About Me
+
+I'm a highly motivated and results-oriented cybersecurity professional with a solid foundation in ethical hacking, cloud security, and digital forensics. I recently honed my skills at UpgradeHub's intensive cybersecurity bootcamp in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response. I'm eager to apply my knowledge and contribute to a dynamic security team.
+
+## Skills
+
+* **Cybersecurity:** Ethical Hacking, Penetration Testing, Vulnerability Analysis, Incident Response, Security Operations Center (SOC) Analysis, Digital Forensics, OSINT
+* **Cloud Computing:** AWS Cloud Practitioner, AWS CloudFormation
+* **Programming:** 
+    * Python: Completed introductory courses with practical use cases.
+    * HTML/CSS: Completed introductory courses with practical use cases.
+    * C: Currently learning.
+    * PowerShell: Currently learning.
+
+
+## Interests
+
+I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming, sports (Parkour, Crossfit, Gymnastics, Badminton...), podcasts, and reading.
+
+## Contact
+
+* **Nostr:** [npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2](https://iris.to/npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2) - Connect with me on Nostr, a decentralized social network.
+* **LinkedIn:** [https://www.linkedin.com/in/jimblogic/](https://www.linkedin.com/in/jimblogic/)
+
+## Bootcamp Certificate![MyCert](https://github.com/JimBLogic/JimBLogic/blob/main/Certificates/upgradehubcert.png)
 <!---
 JimBLogic/JimBLogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
