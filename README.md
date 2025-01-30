@@ -6,8 +6,8 @@ I'm a highly motivated and results-oriented cybersecurity professional with a so
 
 ## Skills
 
-* **Cybersecurity:** Ethical Hacking, Penetration Testing, Vulnerability Analysis, Incident Response, Security Operations Center (SOC) Analysis, Digital Forensics, OSINT
-* **Cloud Computing:** AWS Cloud Practitioner, AWS CloudFormation
+* **Cybersecurity:** Ethical Hacking, Penetration Testing, Vulnerability Analysis, Incident Response, Security Operations Center (SOC) Analysis, Digital Forensics, OSINT and Ciberintelligence.
+* **Cloud Computing:** AWS Cloud Practitioner
 * **Programming:** 
     * Python: Completed introductory courses with practical use cases.
     * HTML/CSS: Completed introductory courses with practical use cases.
