@@ -24,7 +24,7 @@ I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming
 * **Nostr:** [npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2](https://iris.to/npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2) - Connect with me on Nostr, a decentralized social network.
 * **LinkedIn:** [https://www.linkedin.com/in/jimblogic/](https://www.linkedin.com/in/jimblogic/)
 
-## Bootcamp Certificate![MyCert](https://github.com/JimBLogic/JimBLogic/blob/main/Certificates/upgradehubcert.png" alt="UpgradeHub Certificate" width="200" height="100">
+## Bootcamp Certificate![MyCert](https://github.com/JimBLogic/JimBLogic/blob/main/Certificates/upgradehubcert.png)" alt="UpgradeHub Certificate" width="200" height="100">
 <!---
 JimBLogic/JimBLogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
