@@ -27,8 +27,11 @@ I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming
 ## Bootcamp Certificate
 <img src="https://github.com/JimBLogic/JimBLogic/blob/main/Certificates/upgradehubcert.png" alt="MyCert" width="500"/>
 
-##TryHackMe Stats
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2730630" style='border:none;'></iframe>
+# My TryHackMe Profile
+
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2730630" style='border:none; width: 350px; height: 120px;'></iframe>
+</p>
 
 
 <!---
