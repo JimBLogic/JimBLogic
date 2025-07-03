@@ -34,6 +34,9 @@ I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/JimBLogic.png" alt="Your Image Badge" />
 
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JimBLogic.png?update=2)](https://tryhackme.com/p/2730630)
+
+
 
 
 
