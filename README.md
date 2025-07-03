@@ -32,7 +32,8 @@ I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming
 
 ## My TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2730630)](https://tryhackme.com/p/2730630)
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2730630)
+
 
 
 <!---
