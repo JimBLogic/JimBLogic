@@ -32,7 +32,8 @@ I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming
 
 ## My TryHackMe Profile
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/JimBLogic.png" alt="Your Image Badge" />
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2730630)](https://tryhackme.com/p/2730630)
+
 
 <!---
 JimBLogic/JimBLogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
