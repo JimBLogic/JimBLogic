@@ -32,7 +32,7 @@ I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming
 
 ## My TryHackMe Profile
 
-[![My TryHackMe Badge](./images/tryhackme-badge.png)](https://tryhackme.com/p/2730630)
+<img src="https://tryhackme-badges.s3.amazonaws.com/JimBLogic.png" alt="Your Image Badge" />
 
 
 
