@@ -14,7 +14,7 @@ I am a highly motivated and results-oriented cybersecurity professional with a s
 - **Vulnerability Analysis**
 - **Incident Response**
 
-I recently completed an intensive bootcamp at [UpgradeHub](https://upgrade-hub.com/) in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response.
+I recently completed an intensive bootcamp at [UpgradeHub](./assets/pdfs/UpgradeHub/UpgradeHub%20Cert.pdf) in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response.
 
 ---
 
