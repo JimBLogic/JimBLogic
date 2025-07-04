@@ -1,44 +1,89 @@
-# 👋 Hi, I'm Jaime Ramsden de Frutos
+# JimBLogic | Cybersecurity Portfolio
 
-## About Me
+Welcome! This is the personal cybersecurity portfolio of Jaime Ramsden de Frutos (JimBLogic). Here you’ll find my certifications, skills, projects, and experience in ethical hacking, cloud security, and digital forensics.
 
-I'm a highly motivated and results-oriented cybersecurity professional with a solid foundation in ethical hacking, cloud security, and digital forensics. I recently honed my skills at UpgradeHub's intensive cybersecurity bootcamp in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response. I'm eager to apply my knowledge and contribute to a dynamic security team.
+---
 
-## Skills
+## 🚀 About Me
 
-* **Cybersecurity:** Ethical Hacking, Penetration Testing, Vulnerability Analysis, Incident Response, Security Operations Center (SOC) Analysis, Digital Forensics, OSINT and Ciberintelligence.
-* **Cloud Computing:** AWS Cloud Practitioner
-* **Programming:** 
-    * Python: Completed introductory courses with practical use cases.
-    * HTML/CSS: Completed introductory courses with practical use cases.
-    * C: Currently learning.
-    * PowerShell: Currently learning.
+I am a highly motivated and results-oriented cybersecurity professional with a strong foundation in:
 
+- **Ethical Hacking**
+- **Cloud Security** (AWS Cloud Practitioner)
+- **Digital Forensics**
+- **Vulnerability Analysis**
+- **Incident Response**
 
-## Interests
+I recently completed an intensive bootcamp at [UpgradeHub](https://upgrade-hub.com/) in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response.
 
-I'm passionate about cybersecurity, privacy, and Bitcoin. I also enjoy PC gaming, sports (Parkour, Crossfit, Gymnastics, Badminton...), podcasts, and reading.
+---
 
-## Contact
+## 📜 Certifications
 
-* **Nostr:** [npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2](https://iris.to/npub1xadgv77c979w4gy6plq3tw3lmklmthreukupy436n0yv3q6prvkqcgdkt2) - Connect with me on Nostr, a decentralized social network.
-* **LinkedIn:** [https://www.linkedin.com/in/jimblogic/](https://www.linkedin.com/in/jimblogic/)
+- AWS Certified Cloud Practitioner
+- Blue Team Junior Analyst Pathway (Security Blue Team)
+- Multiple Cybrary and IBM cybersecurity courses
+- [See full list and proofs in the portfolio](https://jimblogic.github.io/#certifications)
 
-## Bootcamp Certificate
-<img src="https://github.com/JimBLogic/JimBLogic/blob/main/Certificates/upgradehubcert.png" alt="MyCert" width="500"/>
+---
 
+## 🧰 Skills
 
+- **Security Tools:** Kali Linux, Metasploit, Wireshark, Suricata, Greenbone, Splunk, PowerShell, OSINT
+- **Programming:** Python (beginner-intermediate), Bash, C (learning), HTML/CSS
+- **Cloud:** AWS (foundations)
+- **Others:** Digital Forensics, SOC Analysis, Cyberintelligence
 
+---
 
-## My TryHackMe Profile
+## 🎓 Education
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JimBLogic.png?update=2)](https://tryhackme.com/p/2730630)
+- **UpgradeHub Cybersecurity Bootcamp**: Jan 2024 – May 2024  
+  Full-time program focused on cybersecurity, ethical hacking, and cloud.
 
+---
 
+## 🌐 Portfolio Website
 
+Check out my interactive portfolio at:  
+[https://jimblogic.github.io/](https://jimblogic.github.io/)
 
+---
 
-<!---
-JimBLogic/JimBLogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📂 Repository Structure
+
+```
+assets/
+  Images/               # Profile and badge images
+  css/                  # Stylesheets
+  js/                   # JavaScript files
+  pdfs/                 # Certificates, CV, etc.
+.github/
+  workflows/            # GitHub Actions workflows
+index.html              # Main portfolio page
+style.css               # Custom styles
+script.js               # Custom scripts
+.nojekyll               # Ensures GitHub Pages serves all files
+README.md               # This file
+```
+
+---
+
+## 🛠️ How It's Built
+
+- **HTML5, CSS3 (with Poppins font), JavaScript**
+- **Responsive, single-page design**
+- **Hosted on GitHub Pages**
+- **Automated builds via GitHub Actions**
+
+---
+
+## 🤝 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/jimblogic/)
+- [GitHub](https://github.com/JimBLogic)
+- Email: [jrf91@proton.me](mailto:jrf91@proton.me)
+
+---
+
+> “Security is not a product, but a process.” – Bruce Schneier
