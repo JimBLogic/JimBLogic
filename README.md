@@ -82,7 +82,7 @@ README.md               # This file
 
 - [LinkedIn](https://www.linkedin.com/in/jimblogic/)
 - [GitHub](https://github.com/JimBLogic)
-- Email: [jrf91@proton.me](mailto:jrf91@proton.me)
+- Email: [jrf91@proton.me](mailto:jrf91@p,.me)
 
 ---
 
