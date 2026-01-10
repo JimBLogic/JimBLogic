@@ -8,11 +8,11 @@ Welcome! This is the personal cybersecurity portfolio of Jaime Ramsden de Frutos
 
 I am a highly motivated and results-oriented cybersecurity professional with a strong foundation in:
 
-- **Ethical Hacking**
-- **Cloud Security** (AWS Cloud Practitioner)
+- **Ethical Hacking**)
 - **Digital Forensics**
 - **Vulnerability Analysis**
 - **Incident Response**
+- - **Cloud Security** (AWS Cloud Practitioner training
 
 I recently completed an intensive bootcamp at [UpgradeHub](https://jimblogic.github.io/assets/pdfs/UpgradeHub/UpgradeHub%20Cert.pdf) in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response.
 
@@ -20,7 +20,6 @@ I recently completed an intensive bootcamp at [UpgradeHub](https://jimblogic.git
 
 ## 📜 Certifications
 
-- AWS Certified Cloud Practitioner
 - Blue Team Junior Analyst Pathway (Security Blue Team)
 - Multiple Cybrary and IBM cybersecurity courses
 - [See full list and proofs in the portfolio](https://jimblogic.github.io/#certifications)
@@ -38,8 +37,10 @@ I recently completed an intensive bootcamp at [UpgradeHub](https://jimblogic.git
 
 ## 🎓 Education
 
-- **UpgradeHub Cybersecurity Bootcamp**: Jan 2024 – May 2024  
-  Full-time program focused on cybersecurity, ethical hacking, and cloud.
+- **University Degree in Sports Science**:   
+
+- **UpgradeHub Cybersecurity Bootcamp**:
+  Full-time program focused on cybersecurity, ethical hacking, and cloud Security.
 
 ---
 
@@ -81,7 +82,6 @@ README.md               # This file
 ## 🤝 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/jimblogic/)
-- [GitHub](https://github.com/JimBLogic)
 - Email: [jrf91@proton.me](mailto:jrf91@p,.me)
 
 ---
