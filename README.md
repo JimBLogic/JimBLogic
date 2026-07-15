@@ -1,38 +1,53 @@
 # JimBLogic | Cybersecurity Portfolio
 
-This repository contains the static GitHub Pages website for **JimBLogic**, the cybersecurity portfolio of Jaime Ramsden de Frutos.
+This repository is intended for the **JimBLogic GitHub Pages portfolio** at [https://jimblogic.github.io/](https://jimblogic.github.io/).
 
-The site is designed as a lightweight, responsive single-page portfolio that highlights security skills, certifications, education, project areas, and contact links.
+> Maintenance note: this branch does not currently contain the full production site tree from `JimBLogic/jimblogic.github.io` (`assets/`, `.github/workflows/`, `certificates.json`, dynamic project scripts, and translation files). Do not replace the production site with a minimal rewrite. Future website changes should be made incrementally on top of the full GitHub Pages source.
 
-## Live Website
+## Preservation Checklist for Site Changes
 
-[https://jimblogic.github.io/](https://jimblogic.github.io/)
+Before changing the website implementation, preserve these production features:
 
-## What Is Included
+- EN / ES / CA language support.
+- Dynamic certificate loading and certificate filters.
+- Dynamic GitHub repository/project fetching.
+- Existing CV link, avatar, contact details, location, and social links.
+- Existing Content Security Policy, Open Graph metadata, Twitter Card metadata, canonical URL, and JSON-LD structured data.
+- Existing GitHub Actions deployment/build workflow.
+- Valid existing asset paths under `assets/`.
+- Real repositories, certificates, homelab work, and other proof of work instead of placeholder projects.
+- Bitcoin-orange visual identity.
 
-- `index.html` — Main portfolio page.
-- `style.css` — Responsive dark cybersecurity-themed styling.
-- `script.js` — Mobile navigation and dynamic footer year.
-- `Certificates/` — Certificate assets referenced by the portfolio.
+## Portfolio Focus
 
-## Portfolio Sections
+The portfolio should present Jaime Ramsden de Frutos as a junior cybersecurity candidate with factual, evidence-based wording. Prioritize:
 
-- About
-- Skills
-- Certifications
-- Projects
-- Contact
+- Blue Team learning and SOC analysis fundamentals.
+- Defensive Raspberry Pi homelab work.
+- Linux, Docker, networking, monitoring, and logs.
+- Ethical hacking labs and vulnerability analysis.
+- AWS cloud foundations or AWS Cloud Practitioner candidate status, unless a passed certification is present.
+- Digital forensics, OSINT, and incident response practice.
 
-## Built With
+Keep the Sports Science degree under Education, but avoid making it the main focus of the portfolio.
 
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
+## Certifications and Learning
+
+- Blue Team Junior Analyst Pathway — Security Blue Team.
+- Cybrary cybersecurity foundations coursework.
+- IBM / Python learning.
+- TryHackMe and Hack The Box learning records.
+- UpgradeHub Cybersecurity Bootcamp certificate: [`Certificates/UpgradeHub Cert.pdf`](Certificates/UpgradeHub%20Cert.pdf).
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/jimblogic/)
-- [Email](mailto:jrf91@proton.me)
+- Website: [https://jimblogic.github.io/](https://jimblogic.github.io/)
+- LinkedIn: [https://www.linkedin.com/in/jimblogic/](https://www.linkedin.com/in/jimblogic/)
+- Email: [jrf91@pm.me](mailto:jrf91@pm.me)
 
-> “Security is not a product, but a process.” — Bruce Schneier
+## Notes for Future Contributors
+
+- Verify every internal link and asset path before opening a pull request.
+- Test the site locally at desktop and mobile widths.
+- Run available build, validation, and lint commands.
+- If a real GitHub pull request is required, push the branch and create a draft PR against `main`; do not claim a PR exists without a real GitHub PR URL.
