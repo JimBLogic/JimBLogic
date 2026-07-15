@@ -1,89 +1,38 @@
 # JimBLogic | Cybersecurity Portfolio
 
-Welcome! This is the personal cybersecurity portfolio of Jaime Ramsden de Frutos (JimBLogic). Here you’ll find my certifications, skills, projects, and experience in ethical hacking, cloud security, and digital forensics.
+This repository contains the static GitHub Pages website for **JimBLogic**, the cybersecurity portfolio of Jaime Ramsden de Frutos.
 
----
+The site is designed as a lightweight, responsive single-page portfolio that highlights security skills, certifications, education, project areas, and contact links.
 
-## 🚀 About Me
+## Live Website
 
-I am a highly motivated and results-oriented cybersecurity professional with a strong foundation in:
-
-- **Ethical Hacking**)
-- **Digital Forensics**
-- **Vulnerability Analysis**
-- **Incident Response**
-- - **Cloud Security** (AWS Cloud Practitioner training
-
-I recently completed an intensive bootcamp at [UpgradeHub](https://jimblogic.github.io/assets/pdfs/UpgradeHub/UpgradeHub%20Cert.pdf) in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response.
-
----
-
-## 📜 Certifications
-
-- Blue Team Junior Analyst Pathway (Security Blue Team)
-- Multiple Cybrary and IBM cybersecurity courses
-- [See full list and proofs in the portfolio](https://jimblogic.github.io/#certifications)
-
----
-
-## 🧰 Skills
-
-- **Security Tools:** Kali Linux, Metasploit, Wireshark, Suricata, Greenbone, Splunk, PowerShell, OSINT
-- **Programming:** Python (beginner-intermediate), Bash, C (learning), HTML/CSS
-- **Cloud:** AWS (foundations)
-- **Others:** Digital Forensics, SOC Analysis, Cyberintelligence
-
----
-
-## 🎓 Education
-
-- **University Degree in Sports Science**:   
-
-- **UpgradeHub Cybersecurity Bootcamp**:
-  Full-time program focused on cybersecurity, ethical hacking, and cloud Security.
-
----
-
-## 🌐 Portfolio Website
-
-Check out my interactive portfolio at:  
 [https://jimblogic.github.io/](https://jimblogic.github.io/)
 
----
+## What Is Included
 
-## 📂 Repository Structure
+- `index.html` — Main portfolio page.
+- `style.css` — Responsive dark cybersecurity-themed styling.
+- `script.js` — Mobile navigation and dynamic footer year.
+- `Certificates/` — Certificate assets referenced by the portfolio.
 
-```
-assets/
-  Images/               # Profile and badge images
-  css/                  # Stylesheets
-  js/                   # JavaScript files
-  pdfs/                 # Certificates, CV, etc.
-.github/
-  workflows/            # GitHub Actions workflows
-index.html              # Main portfolio page
-style.css               # Custom styles
-script.js               # Custom scripts
-.nojekyll               # Ensures GitHub Pages serves all files
-README.md               # This file
-```
+## Portfolio Sections
 
----
+- About
+- Skills
+- Certifications
+- Projects
+- Contact
 
-## 🛠️ How It's Built
+## Built With
 
-- **HTML5, CSS3 (with Poppins font), JavaScript**
-- **Responsive, single-page design**
-- **Hosted on GitHub Pages**
-- **Automated builds via GitHub Actions**
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
 
----
-
-## 🤝 Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/jimblogic/)
-- Email: [jrf91@proton.me](mailto:jrf91@p,.me)
+- [Email](mailto:jrf91@proton.me)
 
----
-
-> “Security is not a product, but a process.” – Bruce Schneier
+> “Security is not a product, but a process.” — Bruce Schneier
