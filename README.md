@@ -8,7 +8,7 @@ Welcome! This is the personal cybersecurity portfolio of Jaime Ramsden de Frutos
 
 I am a highly motivated and results-oriented cybersecurity professional with a strong foundation in:
 
-- **Ethical Hacking**)
+- **Ethical Hacking**
 - **Digital Forensics**
 - **Vulnerability Analysis**
 - **Incident Response**
