@@ -48,7 +48,7 @@ I completed an intensive cybersecurity, ethical hacking, and cloud bootcamp at U
 ## 🔎 Featured Work
 
 - [CyberDailyLog](https://github.com/JimBLogic/CyberDailyLog) — a structured, automated daily Blue Team intelligence brief
-- [Defensive Homelab Blue Team](https://github.com/JimBLogic/defensive-homelab-blue-team) — a Raspberry Pi-based defensive infrastructure project
+- [Defensive Homelab Blue Team](https://jimblogic.github.io/#projects) — a Raspberry Pi-based defensive infrastructure project
 - [TryHackMe and Hack The Box](https://github.com/JimBLogic/TryHackme-HackTheBox) — documented hands-on lab progress
 
 ---
