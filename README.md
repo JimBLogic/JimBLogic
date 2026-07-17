@@ -21,7 +21,10 @@ I completed an intensive cybersecurity, ethical hacking, and cloud bootcamp at U
 ## 📜 Certifications and Training
 
 - Blue Team Junior Analyst Pathway (Security Blue Team)
-- Cybersecurity training from Cybrary, IBM SkillsBuild, Cisco Networking Academy, and other platforms
+- **AWS:** [AWS SimuLearn – Cloud Practitioner – Training Badge](https://www.credly.com/badges/2fbdc9ba-c4f6-4e34-bfe6-ada0751e536a)
+- **IBM:** [Web Development with Python](https://www.credly.com/badges/377ba6ff-0d4b-41df-8477-5ba08748c63d)
+- **Cisco:** [Cyber Threat Management](https://www.credly.com/badges/5e2eb763-9d96-4f29-8018-99a71b82c352) · [Introduction to Cybersecurity](https://www.credly.com/badges/cf1cfdca-0fa3-4989-b065-46d985178ae2)
+- Additional cybersecurity training from Cybrary and other platforms
 - [See the full list and supporting evidence in my portfolio](https://jimblogic.github.io/#certifications)
 
 ---
