@@ -1,89 +1,66 @@
 # JimBLogic | Cybersecurity Portfolio
 
-Welcome! This is the personal cybersecurity portfolio of Jaime Ramsden de Frutos (JimBLogic). Here you’ll find my certifications, skills, projects, and experience in ethical hacking, cloud security, and digital forensics.
+Welcome! I’m Jaime Ramsden de Frutos (JimBLogic), a junior cybersecurity candidate focused on SOC operations and Blue Team fundamentals. This profile documents my hands-on projects, technical learning, and verified training.
 
 ---
 
 ## 🚀 About Me
 
-I am a highly motivated and results-oriented cybersecurity professional with a strong foundation in:
+I am building practical experience in:
 
-- **Ethical Hacking**
-- **Digital Forensics**
-- **Vulnerability Analysis**
-- **Incident Response**
-- - **Cloud Security** (AWS Cloud Practitioner training
+- **SOC and Blue Team fundamentals**
+- **Digital forensics**
+- **Vulnerability analysis**
+- **Incident response**
+- **Cloud security** (AWS foundations)
 
-I recently completed an intensive bootcamp at [UpgradeHub](https://jimblogic.github.io/assets/pdfs/UpgradeHub/UpgradeHub%20Cert.pdf) in Madrid, gaining hands-on experience in penetration testing, vulnerability analysis, and incident response.
+I completed an intensive cybersecurity, ethical hacking, and cloud bootcamp at UpgradeHub. I continue developing my skills through defensive projects, labs, and structured training.
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications and Training
 
 - Blue Team Junior Analyst Pathway (Security Blue Team)
-- Multiple Cybrary and IBM cybersecurity courses
-- [See full list and proofs in the portfolio](https://jimblogic.github.io/#certifications)
+- Cybersecurity training from Cybrary, IBM SkillsBuild, Cisco Networking Academy, and other platforms
+- [See the full list and supporting evidence in my portfolio](https://jimblogic.github.io/#certifications)
 
 ---
 
-## 🧰 Skills
+## 🧰 Technical Skills
 
-- **Security Tools:** Kali Linux, Metasploit, Wireshark, Suricata, Greenbone, Splunk, PowerShell, OSINT
-- **Programming:** Python (beginner-intermediate), Bash, C (learning), HTML/CSS
-- **Cloud:** AWS (foundations)
-- **Others:** Digital Forensics, SOC Analysis, Cyberintelligence
+- **Security tools:** Wireshark, Suricata, Splunk, Greenbone, Metasploit, Kali Linux, PowerShell, and OSINT tools
+- **Scripting and web:** Python, Bash, HTML, CSS, and JavaScript
+- **Cloud:** AWS foundations
+- **Defensive security:** log analysis, network analysis, digital forensics, threat intelligence, and incident response fundamentals
 
 ---
 
 ## 🎓 Education
 
-- **University Degree in Sports Science**:   
+- **University Degree in Sports Science**
+- **UpgradeHub Cybersecurity Bootcamp:** intensive program focused on cybersecurity, ethical hacking, and cloud security
 
-- **UpgradeHub Cybersecurity Bootcamp**:
-  Full-time program focused on cybersecurity, ethical hacking, and cloud Security.
+---
+
+## 🔎 Featured Work
+
+- [CyberDailyLog](https://github.com/JimBLogic/CyberDailyLog) — a structured, automated daily Blue Team intelligence brief
+- [Defensive Homelab Blue Team](https://github.com/JimBLogic/defensive-homelab-blue-team) — a Raspberry Pi-based defensive infrastructure project
+- [TryHackMe and Hack The Box](https://github.com/JimBLogic/TryHackme-HackTheBox) — documented hands-on lab progress
 
 ---
 
 ## 🌐 Portfolio Website
 
-Check out my interactive portfolio at:  
-[https://jimblogic.github.io/](https://jimblogic.github.io/)
-
----
-
-## 📂 Repository Structure
-
-```
-assets/
-  Images/               # Profile and badge images
-  css/                  # Stylesheets
-  js/                   # JavaScript files
-  pdfs/                 # Certificates, CV, etc.
-.github/
-  workflows/            # GitHub Actions workflows
-index.html              # Main portfolio page
-style.css               # Custom styles
-script.js               # Custom scripts
-.nojekyll               # Ensures GitHub Pages serves all files
-README.md               # This file
-```
-
----
-
-## 🛠️ How It's Built
-
-- **HTML5, CSS3 (with Poppins font), JavaScript**
-- **Responsive, single-page design**
-- **Hosted on GitHub Pages**
-- **Automated builds via GitHub Actions**
+Explore my projects, certifications, and background at [jimblogic.github.io](https://jimblogic.github.io/).
 
 ---
 
 ## 🤝 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/jimblogic/)
-- Email: [jrf91@proton.me](mailto:jrf91@p,.me)
+- [Email](mailto:jrf91@proton.me)
 
 ---
 
-> “Security is not a product, but a process.” – Bruce Schneier
+> “Security is not a product, but a process.” — Bruce Schneier
