@@ -1,69 +1,66 @@
-# JimBLogic | Cybersecurity Portfolio
+# Jaime Ramsden de Frutos | Junior SOC & Blue Team
 
-Welcome! I’m Jaime Ramsden de Frutos (JimBLogic), a junior cybersecurity candidate focused on SOC operations and Blue Team fundamentals. This profile documents my hands-on projects, technical learning, and verified training.
+Bilingual Spanish-English cybersecurity candidate based in Menorca, Spain. I build practical defensive projects around Linux, networking, monitoring, automation, cloud identity and incident-response fundamentals.
 
----
+My goal is to contribute to a **SOC Tier 1, Junior Cybersecurity Analyst or Blue Team** role while continuing to develop through documented and reproducible work.
 
-## 🚀 About Me
-
-I am building practical experience in:
-
-- **SOC and Blue Team fundamentals**
-- **Digital forensics**
-- **Vulnerability analysis**
-- **Incident response**
-- **Cloud security** (AWS foundations)
-
-I completed an intensive cybersecurity, ethical hacking, and cloud bootcamp at UpgradeHub. I continue developing my skills through defensive projects, labs, and structured training.
+[Portfolio](https://jimblogic.github.io/) · [LinkedIn](https://www.linkedin.com/in/jimblogic/) · [TryHackMe](https://tryhackme.com/p/JimBLogic)
 
 ---
 
-## 📜 Certifications and Training
+## Featured projects
 
-- Blue Team Junior Analyst Pathway (Security Blue Team)
-- **AWS:** [AWS SimuLearn – Cloud Practitioner – Training Badge](https://www.credly.com/badges/2fbdc9ba-c4f6-4e34-bfe6-ada0751e536a)
-- **IBM:** [Web Development with Python](https://www.credly.com/badges/377ba6ff-0d4b-41df-8477-5ba08748c63d)
-- **Cisco:** [Cyber Threat Management](https://www.credly.com/badges/5e2eb763-9d96-4f29-8018-99a71b82c352) · [Introduction to Cybersecurity](https://www.credly.com/badges/cf1cfdca-0fa3-4989-b065-46d985178ae2)
-- Additional cybersecurity training from Cybrary and other platforms
-- [See the full list and supporting evidence in my portfolio](https://jimblogic.github.io/#certifications)
+### [Defensive Homelab Blue Team](https://github.com/JimBLogic/defensive-homelab-blue-team)
+A Raspberry Pi 4 and SSD-based defensive lab focused on Linux, Docker, service exposure, metrics, logging, hardening, backups and incident-response exercises.
 
----
+### [CyberDailyLog](https://github.com/JimBLogic/CyberDailyLog)
+An automated 24-hour Blue Team intelligence pipeline that collects trusted sources, enriches vulnerability data, ranks actionable developments and publishes reproducible Markdown and JSON reports.
 
-## 🧰 Technical Skills
+### [Austrian Business Cycle Monitor](https://github.com/JimBLogic/AustrianBusinessCycleMonitor)
+A full-stack economic monitoring project combining Python, Flask, React, TypeScript and primary-source data, with an emphasis on provenance and verifiability.
 
-- **Security tools:** Wireshark, Suricata, Splunk, Greenbone, Metasploit, Kali Linux, PowerShell, and OSINT tools
-- **Scripting and web:** Python, Bash, HTML, CSS, and JavaScript
-- **Cloud:** AWS foundations
-- **Defensive security:** log analysis, network analysis, digital forensics, threat intelligence, and incident response fundamentals
+### [AWS SSO Sync Okta](https://github.com/JimBLogic/aws-sso-sync-okta)
+A defensive Python learning utility for selected Okta-to-AWS IAM Identity Center synchronization, built around safe defaults, dry-run execution, pagination and tests.
 
----
+### [auto-ovpn](https://github.com/JimBLogic/auto-ovpn)
+A compact Bash utility for bootstrapping an OpenVPN lab deployment with Docker or Podman, including input validation and safer defaults.
 
-## 🎓 Education
-
-- **University Degree in Sports Science**
-- **UpgradeHub Cybersecurity Bootcamp:** intensive program focused on cybersecurity, ethical hacking, and cloud security
+### [Portfolio website](https://github.com/JimBLogic/jimblogic.github.io)
+The source for my multilingual cybersecurity portfolio, project documentation, verified training and professional background.
 
 ---
 
-## 🔎 Featured Work
+## Technical focus
 
-- [CyberDailyLog](https://github.com/JimBLogic/CyberDailyLog) — a structured, automated daily Blue Team intelligence brief
-- [Defensive Homelab Blue Team](https://jimblogic.github.io/#projects) — a Raspberry Pi-based defensive infrastructure project
-- [TryHackMe and Hack The Box](https://github.com/JimBLogic/TryHackme-HackTheBox) — documented hands-on lab progress
+- **Defensive security:** log and network analysis, service baselining, vulnerability triage, threat intelligence, digital forensics and incident-response fundamentals
+- **Infrastructure:** Linux, Docker, Raspberry Pi, DNS, VPNs, monitoring, backups and secure configuration
+- **Automation:** Python, Bash, GitHub Actions, structured JSON feeds, schemas, validation and tests
+- **Cloud and identity:** AWS foundations, IAM, IAM Identity Center, SCIM and least-privilege design
+- **Tools:** Wireshark, Suricata, Splunk, Greenbone, PowerShell, Kali Linux and OSINT tooling
+
+## How I work
+
+I prefer small, reviewable changes; safe defaults; reproducible setup instructions; clear trust boundaries; and evidence that can be checked.
+
+## Current development
+
+- Turning the defensive homelab into an operated and documented monitoring environment
+- Improving CyberDailyLog as a reusable intelligence feed for portfolios and dashboards
+- Deepening SOC analysis, Linux, networking, SIEM and AWS knowledge
+- Building a focused portfolio for junior defensive-security opportunities
+
+## Training
+
+- Security Blue Team — Junior Analyst Pathway
+- UpgradeHub — Cybersecurity, Ethical Hacking and Cloud bootcamp
+- Cisco — Cyber Threat Management and Introduction to Cybersecurity
+- AWS Cloud Practitioner training in progress
+- Additional training in threat intelligence, digital forensics, OSINT, Bash, Python and defensive operations
+
+[View verified certifications and supporting evidence](https://jimblogic.github.io/#certifications)
 
 ---
 
-## 🌐 Portfolio Website
+## Contact
 
-Explore my projects, certifications, and background at [jimblogic.github.io](https://jimblogic.github.io/).
-
----
-
-## 🤝 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/jimblogic/)
-- [Email](mailto:jrf91@proton.me)
-
----
-
-> “Security is not a product, but a process.” — Bruce Schneier
+Professional contact details are available through my [portfolio](https://jimblogic.github.io/) and [LinkedIn](https://www.linkedin.com/in/jimblogic/).
