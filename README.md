@@ -19,12 +19,6 @@ An automated 24-hour Blue Team intelligence pipeline that collects trusted sourc
 ### [Austrian Business Cycle Monitor](https://github.com/JimBLogic/AustrianBusinessCycleMonitor)
 A full-stack economic monitoring project combining Python, Flask, React, TypeScript and primary-source data, with an emphasis on provenance and verifiability.
 
-### [AWS SSO Sync Okta](https://github.com/JimBLogic/aws-sso-sync-okta)
-A defensive Python learning utility for selected Okta-to-AWS IAM Identity Center synchronization, built around safe defaults, dry-run execution, pagination and tests.
-
-### [auto-ovpn](https://github.com/JimBLogic/auto-ovpn)
-A compact Bash utility for bootstrapping an OpenVPN lab deployment with Docker or Podman, including input validation and safer defaults.
-
 ### [Portfolio website](https://github.com/JimBLogic/jimblogic.github.io)
 The source for my multilingual cybersecurity portfolio, project documentation, verified training and professional background.
 
